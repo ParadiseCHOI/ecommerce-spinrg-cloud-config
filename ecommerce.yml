@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: user_jwt
+  secret: changed_user_jwt
 
 gateway:
   ip: 192.168.137.1
